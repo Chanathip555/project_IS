@@ -1,4 +1,6 @@
 # getting-start-streamlit
 
 # requirement
-pip install streamlit
+- pip install streamlit
+
+- streamlit run main.py
